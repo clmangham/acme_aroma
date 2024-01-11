@@ -43,7 +43,7 @@ The model achieved an F1 score of 0.94 for the negative class (non- turnover) an
 
 <div style="text-align:center">
   <p>
-    <img src="src/F1_score.png" width="500" />
+    <img src="src/F1_score.png" width="450" />
   </p>
 </div>
 
@@ -57,7 +57,7 @@ Overall, the model demonstrates strong performance in accurately predicting non-
 
 <div style="text-align:center">
   <p>
-    <img src="src/FP_FN.png" width="500" />
+    <img src="src/FP_FN.png" width="450" />
   </p>
 </div>
 
@@ -79,7 +79,7 @@ Other initiative factors are not as strongly related. Job satisfaction, environm
 
 <div style="text-align:center">
   <p>
-    <img src="src/factor_turnover_odds.png" width="700" />
+    <img src="src/factor_turnover_odds.png" width="600" />
   </p>
 </div>
 
