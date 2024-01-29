@@ -32,7 +32,7 @@ Acme Aroma has witnessed an increase in employee turnover over the past few year
 
 ## Approach: Employee turnover model
 
-Our approach centered on creating an employee turnover model to gauge the risk of employees leaving the company using key predictors for turnover risk in survey data acquired from Acme Aroma's human resources information system.
+Our approach centered on creating an employee turnover model using key predictors for turnover risk in survey data acquired from Acme Aroma's human resources information system.
 
 ### Model Description:
 
@@ -85,7 +85,7 @@ Other initiative factors are not as strongly related. Job satisfaction, environm
 
 ## Primary Recommendation: Work-Life Balance Initiatives
 
-To mitigate the escalating turnover rate and associated costs, Acme Aroma should aim to **enhance Work-Life Balance by forcusing on intiatives such as reducing mandatory business travel.**
+To mitigate the escalating turnover rate and associated costs, Acme Aroma should aim to **enhance Work-Life Balance by focusing on initiatives such as reducing mandatory business travel.**
 
 Limiting required business travel to improve work life balance is a reasonable initiative given the strong negative correlation of work life balance with employee turnover.
 This option is projected to result in a 3% reduction in turnover and savings of approximately ₹126,225,521, based on the model and sample data.
